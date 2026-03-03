@@ -19,8 +19,8 @@
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size, using **bootstrap** and **tailwind**, so you must create two different routes.
-- One for bootstrap: `/bootstrap`
-- One for tailwind: `/tailwind`
+- One for bootstrap: https://dsaw-2026-1.github.io/corte-ii-bootstrap-tailwind-jotamahecha/bootstrap.html
+- One for tailwind: https://dsaw-2026-1.github.io/corte-ii-bootstrap-tailwind-jotamahecha/tailwind.html
 
 ### Screenshot
 
