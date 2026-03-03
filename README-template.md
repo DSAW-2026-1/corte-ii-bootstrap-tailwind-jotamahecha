@@ -13,7 +13,13 @@
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
+This project is a Stats Preview Card Component built using HTML and CSS, with two different implementations: one using Bootstrap and another using Tailwind CSS.
 
+The main goal of the project is to create a responsive card layout that looks as close as possible to the provided design. The card shows a short text about data analytics, an image, and three key statistics related to companies, templates, and queries.
+
+The component adapts to different screen sizes. On mobile devices, the image appears on top and the text is shown below. On desktop screens, the layout changes so the text is on the left side and the image is on the right side.
+
+This project helps practice responsive design, layout structure, and the use of CSS frameworks. It also improves understanding of how to organize content, follow a style guide, and build clean and readable front-end code.
 ### The challenge
 
 Users should be able to:
