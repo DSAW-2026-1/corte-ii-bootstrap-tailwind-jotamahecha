@@ -2,31 +2,66 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tailwind | Stats preview card</title>
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Tailwind | Stats preview card component</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap" rel="stylesheet">
 
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            main: 'hsl(233, 47%, 7%)',
+            card: 'hsl(244, 38%, 16%)',
+            accent: 'hsl(277, 64%, 61%)'
+          },
+          fontFamily: {
+            inter: ['Inter', 'sans-serif'],
+            lexend: ['Lexend Deca', 'sans-serif']
+          }
+        }
+      }
+    }
+  </script>
 </head>
-<body>
 
-  Get insights that help your business grow.
+<body class="bg-main min-h-screen flex items-center justify-center font-inter">
 
-  Discover the benefits of data analytics and make better decisions regarding revenue, customer 
-  experience, and overall efficiency.
+  <div class="bg-card rounded-lg overflow-hidden max-w-5xl flex flex-col md:flex-row">
 
-  10k+ companies
-  314 templates
-  12m+ queries
+    <div class="p-10 text-white md:w-1/2">
+      <h1 class="text-3xl font-bold">
+        Get <span class="text-accent">insights</span> that help your business grow.
+      </h1>
 
-  <div class="attribution">
-    Coded by <a href="#">Your Name Here</a>.
+      <p class="text-white/75 mt-6">
+        Discover the benefits of data analytics and make better decisions regarding revenue,
+        customer experience, and overall efficiency.
+      </p>
+
+      <div class="flex flex-col md:flex-row gap-8 mt-10 text-center md:text-left">
+        <div>
+          <h3 class="text-2xl font-bold">10k+</h3>
+          <p class="text-white/60 text-xs tracking-widest uppercase">companies</p>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold">314</h3>
+          <p class="text-white/60 text-xs tracking-widest uppercase">templates</p>
+        </div>
+        <div>
+          <h3 class="text-2xl font-bold">12m+</h3>
+          <p class="text-white/60 text-xs tracking-widest uppercase">queries</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="md:w-1/2">
+      <img src="./images/image-header-desktop.jpg" class="w-full h-full object-cover" alt="">
+    </div>
+
   </div>
+
 </body>
 </html>
