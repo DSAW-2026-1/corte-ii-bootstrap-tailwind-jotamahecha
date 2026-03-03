@@ -1,6 +1,6 @@
 # Stats preview card component solution
 
-## Name: YOUR_NAME_HERE
+## Name: Juan Felipe Mahecha
 
 ## Table of contents
 
