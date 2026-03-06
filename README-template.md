@@ -29,6 +29,7 @@ Users should be able to:
 - One for tailwind: https://dsaw-2026-1.github.io/corte-ii-bootstrap-tailwind-jotamahecha/tailwind.html
 
 ### Screenshot
+<img width="1678" height="920" alt="Captura de pantalla 2026-03-06 082818" src="https://github.com/user-attachments/assets/362a07c8-91a3-4280-94f8-0f8c2b312f03" />
 
 ![](./screenshot.jpg)
 
