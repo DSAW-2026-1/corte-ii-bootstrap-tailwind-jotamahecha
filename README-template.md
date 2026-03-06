@@ -32,6 +32,7 @@ Users should be able to:
 <img width="1678" height="920" alt="Captura de pantalla 2026-03-06 082818" src="https://github.com/user-attachments/assets/362a07c8-91a3-4280-94f8-0f8c2b312f03" />
 
 ![](./screenshot.jpg)
+<img width="1661" height="909" alt="Captura de pantalla 2026-03-06 082946" src="https://github.com/user-attachments/assets/02b02758-6892-42b3-8371-473f1a98a2d0" />
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
