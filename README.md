@@ -2,7 +2,8 @@
 # Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
-
+Juan Felipe Mahecha Pardo
+link: https://dsaw-2026-1.github.io/corte-ii-bootstrap-tailwind-jotamahecha/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
