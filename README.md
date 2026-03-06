@@ -1,7 +1,11 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VFyC7sVL)
+Juan Felipe Mahecha Pardo
+link: https://dsaw-2026-1.github.io/corte-ii-bootstrap-tailwind-jotamahecha/
 # Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
-
+Juan Felipe Mahecha Pardo
+link: https://dsaw-2026-1.github.io/corte-ii-bootstrap-tailwind-jotamahecha/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
